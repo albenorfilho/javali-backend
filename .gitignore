@@ -1,0 +1,16 @@
+.metadata
+.settings
+.classpath
+.project
+target
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.tern-project
+*.springBeans
+*.bak
+*~
+.DS_Store
