@@ -13,5 +13,5 @@ public class AlunoController {
 
 	@Inject
 	private AlunoService alunoService;
-
+	
 }
